@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Baumelement()
+comment1.params=
+comment1.target=int\ tiefe()
+comment2.params=k
+comment2.target=void\ einh\u00E4ngen(Knoten)
+comment3.params=
+comment3.target=Daten\ inOrder()
+numComments=4

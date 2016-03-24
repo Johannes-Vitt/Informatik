@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Listenelement()
+comment1.params=
+comment1.target=void\ hinzufuegen()
+comment2.params=welches
+comment2.target=void\ loeschen(int)
+comment3.params=
+comment3.target=int\ zaehlen()
+numComments=4

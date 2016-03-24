@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Baumelement()
+comment1.params=
+comment1.target=int\ tiefe()
+comment2.params=
+comment2.target=Daten\ inOrder()
+comment3.params=
+comment3.target=Daten\ preOrder()
+comment4.params=
+comment4.target=Daten\ postOrder()
+numComments=5

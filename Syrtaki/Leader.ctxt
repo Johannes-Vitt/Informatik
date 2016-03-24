@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=geschl
+comment0.target=Leader(char)
+comment1.params=seite\ geschl
+comment1.target=void\ add(java.lang.String,\ char)
+comment2.params=
+comment2.target=int\ laenge()
+comment3.params=geschl
+comment3.target=void\ addBunt(char)
+numComments=4

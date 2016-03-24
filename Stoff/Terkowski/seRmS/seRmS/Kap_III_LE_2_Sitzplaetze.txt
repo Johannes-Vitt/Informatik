@@ -1,0 +1,14 @@
+1:  DLOAD 8   --Beispiel n = 8
+2:  STORE 1   --Produkt p in R1
+3:  STORE 2   --Zählvar. m in R2
+4:  DLOAD 1
+5:  STORE 3   --Konstante 1 in R3
+6:  LOAD 2
+7:  SUB 3
+8:  JLE 13    --falls m <= 0
+9:  STORE 2   --m = m - 1
+10: MULT 1
+11: STORE 1   --p = p*m
+12: JUMP 6
+13: LOAD 1    --Ergebnis in A
+14: END

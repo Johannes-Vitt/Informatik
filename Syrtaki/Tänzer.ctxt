@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=gesch
+comment0.target=T\u00E4nzer(char)
+comment1.params=geschl
+comment1.target=void\ add(char)
+comment2.params=
+comment2.target=int\ laenge()
+comment3.params=
+comment3.target=char\ getGeschLast()
+numComments=4

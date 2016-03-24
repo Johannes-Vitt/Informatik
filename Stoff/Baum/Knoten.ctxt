@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Knoten()
+comment1.params=n
+comment1.target=boolean\ anh\u00E4ngen(double)
+comment2.params=n
+comment2.target=boolean\ geordnetAnh\u00E4ngen(double)
+comment3.params=
+comment3.target=int\ tiefe()
+comment4.params=x
+comment4.target=boolean\ l\u00F6sche(double)
+comment5.params=k
+comment5.target=void\ einh\u00E4ngen(Knoten)
+comment6.params=
+comment6.target=Daten\ inOrder()
+numComments=7

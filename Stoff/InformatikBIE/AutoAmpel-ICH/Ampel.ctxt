@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Ampel()
+comment2.params=
+comment2.target=void\ ampelAus()
+comment3.params=
+comment3.target=void\ ampelAufRot()
+comment4.params=
+comment4.target=void\ ampelAufGr\u00FCn()
+comment5.params=
+comment5.target=void\ ampelAufGelb()
+comment6.params=
+comment6.target=void\ ampelAufRotGelb()
+comment7.params=wieoft
+comment7.target=void\ ampelGelbBlinken(int)
+comment8.params=x\ y
+comment8.target=void\ ampelVerschieben(int,\ int)
+comment9.params=milliseconds
+comment9.target=void\ wait(int)
+numComments=10

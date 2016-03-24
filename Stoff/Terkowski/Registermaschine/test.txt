@@ -1,0 +1,10 @@
+1:  DLOAD 65
+2:  STORE 1   --Verbrauch in R1
+3:  DLOAD 930
+4:  STORE 2   --gefahrene km in R2
+5:  DLOAD 2650
+6:  STORE 3   --CO2 pro l in R3
+7:  LOAD 1    --Start der Berechnung
+8:  MULT 3
+9:  DIV 2     --Ergebnis in A
+10: END

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Baum()
+comment1.params=n
+comment1.target=void\ l\u00F6schen(double)
+comment2.params=n
+comment2.target=void\ massenanh\u00E4ngen(int)
+comment3.params=n
+comment3.target=void\ anh\u00E4ngen(double)
+comment4.params=
+comment4.target=int\ tiefe()
+comment5.params=links
+comment5.target=int\ tiefeSeite(boolean)
+comment6.params=
+comment6.target=void\ inOrder()
+comment6.text=public\ void\ anh\u00E4ngenRand(double\ n)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if(wurzel\ instanceof\ Abschluss)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ wurzel\ \=\ new\ Datenknoten(n);\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ ((Datenknoten)wurzel).anh\u00E4ngenRand(n);\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment7.params=
+comment7.target=void\ preOrder()
+comment8.params=
+comment8.target=void\ postOrder()
+comment9.params=
+comment9.target=void\ ausgeben()
+numComments=10

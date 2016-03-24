@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=Flache(Fenster)
+comment0.text=\r\n\ Konstruktor\r\n\ @param\ f\ Fenster,\ das\ dieses\ Objekt\ enth\u00E4lt.\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+numComments=2
